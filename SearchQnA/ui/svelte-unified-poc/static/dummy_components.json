@@ -1,0 +1,24 @@
+[
+    {
+      "component_id": 1,
+      "type": "ChatInput",
+      "props": {
+        "label": "Click me!"
+      }
+    },
+    {
+        "component_id": 2,
+        "type": "ChatInput",
+        "props": {
+          "label": "Click me!"
+        }
+      },
+      {
+        "component_id": 3,
+        "type": "ChatInput",
+        "props": {
+          "label": "Click me!"
+        }
+      }
+  ]
+  

@@ -1,0 +1,33 @@
+[
+    {
+      "component_id": 1,
+      "type": "DummyButton",
+      "props": {
+        "label": "Click me!"
+      }
+    },
+    {
+        "component_id": 2,
+        "type": "DummyButton",
+        "props": {
+          "label": "Click me!"
+        }
+      },
+    {
+      "component_id": 3,
+      "type": "DummyCard",
+      "props": {
+        "title": "Card Title",
+        "content": "This is some content for the card."
+      }
+    },
+    {
+      "component_id": 4,
+      "type": "DummyCard",
+      "props": {
+        "title": "Another Card Title",
+        "content": "This is some different content for the card."
+      }
+    }
+  ]
+  
